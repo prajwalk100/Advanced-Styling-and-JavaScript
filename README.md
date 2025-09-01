@@ -15,8 +15,7 @@ Easily customizable questions and answers from the JS file.
 Getting Started
 Clone the repository:
 
-bash
-git clone https://github.com/yourusername/quiz-app.git
+
 Navigate to the project folder:
 
 bash
